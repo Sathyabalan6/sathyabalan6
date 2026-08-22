@@ -4,8 +4,8 @@
 ### **Full-Stack Developer & Automation Engineer**
 
 [![GitHub followers](https://img.shields.io/github/followers/sathyabalan6?label=Followers&style=for-the-badge&logo=github&color=24292e)](https://github.com/sathyabalan6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathya-balan/)
 [![Email](https://img.shields.io/badge/Email-sathyabalank6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathyabalank6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 <br/>
 
