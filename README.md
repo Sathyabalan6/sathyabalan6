@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Sathya Balan K
-### 🤖 **Full-Stack & AI Systems Engineer**
+### Full-Stack & Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathya-balan/)
 [![Email](https://img.shields.io/badge/Email-sathyabalank6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathyabalank6@gmail.com)
@@ -10,87 +10,108 @@
 
 <br/>
 
-<p align="center">
-  <em>Crafting high-performance Full-Stack Web Applications, Model Context Protocol (MCP) AI Tooling, and Intelligent Automations.</em>
-</p>
+<em>I build full-stack products, automations and AI tooling, then ship them to real users.</em>
 
 </div>
 
 ---
 
-### 🌌 About Me
+### 👋 About Me
 
-- 🚀 **Building**: Scalable Full-Stack applications using **React**, **FastAPI**, and **TypeScript**, alongside custom **MCP AI servers**.
-- 💡 **Core Expertise**: Full-Stack Architecture, REST APIs, AI Agent Infrastructure, Deep Reinforcement Learning, & Browser Automation.
-- 🧪 **Current Focus**: Modern Model Context Protocol (MCP) tooling, LLM integrations, and developer workflow automation.
-- 🎯 **Problem Solving**: Active algorithm practitioner on LeetCode & NeetCode (`Java` / `Python` / `TypeScript`).
-- 📬 **Get In Touch**: [sathyabalank6@gmail.com](mailto:sathyabalank6@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sathya-balan/)
+- 🎓 MCA, Department of Information Science and Technology, **College of Engineering, Guindy (CEG), Anna University**
+- 🚀 Shipping **open source** (published on PyPI) and **paid freelance websites** (live, on custom domains, SEO-optimised)
+- 🧠 Strong on architecture: React, Node.js, FastAPI, MySQL, AWS Lambda, n8n, LLM/MCP integrations
+- ☁️ Azure certified
+- 🎯 **Open to** Full Stack, Backend and Automation Engineer roles, **remote preferred**
+- 📬 Reach me at [sathyabalank6@gmail.com](mailto:sathyabalank6@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🚀 Shipped & Live
+
+#### 📱 Laptop Remote: turn your phone into a laptop remote
+[![PyPI](https://img.shields.io/pypi/v/laptop-remote?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/laptop-remote/)
+[![Downloads](https://img.shields.io/pypi/dm/laptop-remote?style=for-the-badge&label=downloads)](https://pypi.org/project/laptop-remote/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/Sathyabalan6/laptop-remote)
+
+Use your phone as a **trackpad, keyboard, media controller and presentation laser pointer** for your laptop.
+
+```bash
+pip install laptop-remote
+```
+
+- Open source, MIT licensed, published on **PyPI**
+- Repo: [Sathyabalan6/laptop-remote](https://github.com/Sathyabalan6/laptop-remote) | Package: [pypi.org/project/laptop-remote](https://pypi.org/project/laptop-remote/)
+
+#### 💼 Freelance Client Websites
+
+| Client | What I did | Stack |
+| :--- | :--- | :--- |
+| 🏠 **[Space Craft & Tech Solution](https://www.spacecrafttech.in/)**<br/>Interior design firm, Chennai | Designed and built the full site (6 pages + custom 404). Set up the contact form, image CDN and **SEO** (sitemap, robots.txt). Deployed on **Vercel** and connected a **GoDaddy** custom domain. | HTML · CSS · JavaScript · EmailJS · ImageKit |
+| 💄 **[Mugaashra Bridal Studio](https://www.mugaashra.co.in/)**<br/>Bridal makeup studio, Madurai | Built the site with a **Payload CMS** admin and an enquiries dashboard. Did the **SEO** (sitemap, robots, canonical URLs, Open Graph/Twitter cards, Google Search Console). Deployed on **Vercel** with a **GoDaddy** custom domain. | Next.js · TypeScript · Payload CMS |
+
+**End-to-end delivery on both:** requirements → design → development → SEO → deployment → domain setup.
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="left">
 
-#### 💻 **Full-Stack & Languages**
+#### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🌐 **Frontend Frameworks & UI**
+#### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ **Backend, Databases & AI**
+#### ⚙️ Backend, Automation & AI
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-7928CA?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-7928CA?style=for-the-badge&logo=anthropic&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-#### 🔧 **DevOps & Developer Tools**
+#### ☁️ Cloud & DevOps
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 More Projects
 
-| Project | Highlights & Capabilities | Tech Stack |
+| Project | Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 📁 **[file_system](https://github.com/Sathyabalan6/file_system)** | Full-stack file management & document search engine with instant search and indexing. | React / Python FastAPI |
-| 🏥 **[excell_med](https://github.com/Sathyabalan6/excell_med)** | Healthcare appointment and medical practice management application. | TypeScript / React / Tailwind |
-| 📋 **[task-manager](https://github.com/Sathyabalan6/task-manager)** | Interactive productivity suite and workflow scheduling application. | TypeScript / React / Node |
-| 🤖 **[mcp_server](https://github.com/Sathyabalan6/mcp_server)** | Custom Model Context Protocol (MCP) server integration for AI agents and LLM tooling. | Python / Node.js |
-| 🧠 **[deeprl_signal_control](https://github.com/Sathyabalan6/deeprl_signal_control)** | Deep Reinforcement Learning for dynamic traffic signal control and optimization. | Python / PyTorch / RL |
-| 🧩 **[session_export](https://github.com/Sathyabalan6/session_export)** | Manifest V3 Chrome Extension to clone & export active browser sessions into incognito windows. | JavaScript / Chrome API |
+| 📁 **[file_system](https://github.com/Sathyabalan6/file_system)** | Full-stack file management and document search engine with instant search and indexing. | React / Python FastAPI |
+| 🏥 **[excell_med](https://github.com/Sathyabalan6/excell_med)** | Medical equipment e-commerce store for the Indian market. | TypeScript / React / Tailwind |
+| 🤖 **[mcp_server](https://github.com/Sathyabalan6/mcp_server)** | Custom Model Context Protocol (MCP) server for AI agents and LLM tooling. | Python / Node.js |
+| 🧠 **[deeprl_signal_control](https://github.com/Sathyabalan6/deeprl_signal_control)** | Deep Reinforcement Learning for dynamic traffic signal control. | Python / PyTorch |
+| 🧩 **[session_export](https://github.com/Sathyabalan6/session_export)** | Manifest V3 Chrome extension that clones and exports active browser sessions into incognito windows. | JavaScript / Chrome API |
+| 📋 **[task-manager](https://github.com/Sathyabalan6/task-manager)** | Productivity and workflow scheduling app. | TypeScript / React / Node |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathyabalan6&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Sathya Balan's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathyabalan6&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathyabalan6&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sathyabalan6&theme=synthwave&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
-  <sub>⚡ Designed & Engineered by <a href="https://github.com/Sathyabalan6">Sathya Balan K</a></sub>
+  <sub>⚡ Open to remote Full Stack, Backend and Automation roles. <a href="mailto:sathyabalank6@gmail.com">Let's talk</a></sub>
 </div>
